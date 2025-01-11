@@ -42,6 +42,7 @@ State Management: Managed using React's useState and useEffect hooks.
 
 CSS: For styling the application.
 
+"C:\Users\guntr\OneDrive\Pictures\Screenshots\user interface.png"
 Screenshot 2025-01-06 at 12 35 45 PM
 
 📋 How to Run the Project
