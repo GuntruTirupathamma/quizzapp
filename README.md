@@ -42,7 +42,8 @@ State Management: Managed using React's useState and useEffect hooks.
 
 CSS: For styling the application.
 
-![Uploading Screenshot 2025-01-11 093852.png…]()
+![Screenshot 2025-01-11 093852](https://github.com/user-attachments/assets/63058c6c-ec2b-4c3d-be71-9c6a9e806b2e)
+
 
 
 📋 How to Run the Project
